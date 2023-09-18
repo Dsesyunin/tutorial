@@ -1,1 +1,7 @@
-package git_tutorial
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello world!")
+}
