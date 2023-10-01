@@ -9,5 +9,4 @@ func main() {
 	fmt.Println("new message")
 	fmt.Println("message task-1")
 	fmt.Println("message task-2")
-
 }
